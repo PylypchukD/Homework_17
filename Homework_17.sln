@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_01", "Task_01\Task_01.csproj", "{8F1D331F-9E73-45BF-85E7-75AC42CACAD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_02", "Task_02\Task_02.csproj", "{C2104143-59B9-4501-9CB7-2A9455486ECC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_03", "Task_03\Task_03.csproj", "{17A402E7-75DA-4902-94E7-6C9E400E7F5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F1D331F-9E73-45BF-85E7-75AC42CACAD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F1D331F-9E73-45BF-85E7-75AC42CACAD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F1D331F-9E73-45BF-85E7-75AC42CACAD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F1D331F-9E73-45BF-85E7-75AC42CACAD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2104143-59B9-4501-9CB7-2A9455486ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2104143-59B9-4501-9CB7-2A9455486ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2104143-59B9-4501-9CB7-2A9455486ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2104143-59B9-4501-9CB7-2A9455486ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17A402E7-75DA-4902-94E7-6C9E400E7F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A402E7-75DA-4902-94E7-6C9E400E7F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A402E7-75DA-4902-94E7-6C9E400E7F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A402E7-75DA-4902-94E7-6C9E400E7F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8389FC0A-D639-4158-8BFC-47C823B278CF}
+	EndGlobalSection
+EndGlobal
